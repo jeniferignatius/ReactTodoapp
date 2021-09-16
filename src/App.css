@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+table{
+  margin: auto;
+  margin-top: 20px;
+ 
+}
+h3{
+  color: rgb(25, 0, 255);
+}
+button{
+  color: blue;
+  background-color: cornsilk;
+  width: 100px;
+}
